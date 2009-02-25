@@ -1,6 +1,6 @@
 /***************************************************************
- * Name:      StockDayDataUnit.cpp
- * Purpose:   Code for StockDayDataUnit Class
+ * Name:      StockPeriodDataUnit.cpp
+ * Purpose:   Code for StockPeriodDataUnit Class
  * Author:    gaojiongjiong ()
  * Created:   2009-02-25
  * Copyright: gaojiongjiong ()
@@ -8,4 +8,4 @@
  **************************************************************/
 
 #include    "CommonMacro.h"
-#include    "StockDayDataUnit.h"
+#include    "StockPeriodDataUnit.h"
