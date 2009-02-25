@@ -10,6 +10,8 @@
 #ifndef STOCKDAYDATAUNIT_H
 #define STOCKDAYDATAUNIT_H
 
+#include    "Date.h"
+
 class StockDayDataUnit
 {
 private:
@@ -22,6 +24,6 @@ private:
     float   m_high;
     float   m_volumn;
     float   m_capacity;
-}
+};
 
 #endif  //STOCKDAYDATAUNIT_H
