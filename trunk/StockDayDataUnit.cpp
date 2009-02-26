@@ -7,6 +7,5 @@
  * License:
  **************************************************************/
 
-#include    "CommonMacro.h"
 #include    "CommonHeader.h"
 #include    "StockDayDataUnit.h"
