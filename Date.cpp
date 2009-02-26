@@ -7,5 +7,4 @@
  * License:
  **************************************************************/
 
-#include    "CommonMacro.h"
 #include    "CommonHeader.h"

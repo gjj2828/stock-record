@@ -10,6 +10,8 @@
 #ifndef COMMONHEADER_H
 #define COMMONHEADER_H
 
+#include "CommonMacro.h"
+#include "CommonStruct.h"
 #include "Date.h"
 
 #endif  //COMMONHEADER_H

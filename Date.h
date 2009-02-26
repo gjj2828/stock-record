@@ -13,12 +13,12 @@
 class Date
 {
 public:
-    Date(void)                                      {m_year = 0;    m_month = 0;     m_day = 0;  }
+    Date()                                          {m_year = 0;    m_month = 0;     m_day = 0;  }
     Date(uint year, uint month, uint day)           {m_year = year; m_month = month; m_day = day;}
     void   SetDate(uint year, uint month, uint day) {m_year = year; m_month = month; m_day = day;}
-    ushort year(void)                               {return m_year;                              }
-    ushort month(void)                              {return m_month;                             }
-    ushort day(void)                                {return m_day;                               }
+    ushort year()                                   {return m_year;                              }
+    ushort month()                                  {return m_month;                             }
+    ushort day()                                    {return m_day;                               }
 private:
     uint    m_year  :16;
     uint    m_month :4;

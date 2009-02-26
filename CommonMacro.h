@@ -17,5 +17,7 @@
 #define STOCK_CODE_LENGTH   (6)
 #define STOCK_NAME_LENGTH   (8)
 
+#define ENTRUST_GRADE       (5)
+
 #endif  //COMMONMACRO_H
 

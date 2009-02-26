@@ -84,6 +84,7 @@
 		</Linker>
 		<Unit filename="CommonHeader.h" />
 		<Unit filename="CommonMacro.h" />
+		<Unit filename="CommonStruct.h" />
 		<Unit filename="Date.cpp" />
 		<Unit filename="Date.h" />
 		<Unit filename="StockDayDataUnit.cpp" />
